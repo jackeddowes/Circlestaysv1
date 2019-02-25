@@ -1,0 +1,11 @@
+/**
+ * @package    WordPress
+ * @subpackage Everything
+ */
+
+/*
+ * Body
+ */
+body {
+	font: 13px/24px "Open Sans", Helvetica, Arial, sans-serif;
+}
